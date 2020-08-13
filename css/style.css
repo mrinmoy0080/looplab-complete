@@ -1,0 +1,37 @@
+body{
+    color: white;
+}
+.navbar{
+    background-color: #090C11;
+    opacity: 0.7;
+    border-bottom: 3px solid #1E6994;
+}
+.home{
+    background-image: url(../img/ss.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 794px;
+}
+
+.build{
+    padding-top: 140px;
+    padding-bottom: 50px;
+}
+i{
+    padding: 7px;
+    background-color: #FFFEFF;
+    color: #0A8AD6;
+    border-radius: 4px;
+    margin-right: 45px;
+    margin-top: 50px;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+.height{
+    background-color: #343A40;
+    height: 60px;
+}
